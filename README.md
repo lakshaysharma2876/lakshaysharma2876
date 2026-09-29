@@ -196,33 +196,6 @@ Production AI Infrastructure
 </div>
 
 ---
-
-## 🧠 Developer Philosophy
-
-<div align="center">
-
-> **Build things. Break things. Understand why. Build them better.**
-
-<br>
-
-```text
-Idea
-  ↓
-Prototype
-  ↓
-Experiment
-  ↓
-Optimize
-  ↓
-Production
-  ↓
-Repeat 🔁
-```
-
-</div>
-
----
-
 ## 📈 Coding Activity
 
 <div align="center">
